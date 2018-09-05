@@ -1,7 +1,8 @@
 # one_liners
 
+make a table more readable with less (with tabs and wrap lines)
 ```
-test
+column -t FILE less -S
 
 ```
 
