@@ -1,5 +1,8 @@
 # one_liners
 
-```bash
+```
 test
 
+```
+
+non-bash
