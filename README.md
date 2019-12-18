@@ -6,4 +6,9 @@ column -t FILE | less -S
 
 ```
 
-non-bash
+Track resource usage:
+```
+/usr/bin/time -v PROGRAM
+```
+resident set size is memory.
+
